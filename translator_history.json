@@ -1,0 +1,50 @@
+[
+  {
+    "role": "user",
+    "content": "Translate only into ab oor barash nhi karoonga -> English and give only the translated text. No explanations, no roman script."
+  },
+  {
+    "role": "assistant",
+    "content": "I will not rain again."
+  },
+  {
+    "role": "user",
+    "content": "Translate only into wo uski hii ki ha -> English and give only the translated text. No explanations, no roman script."
+  },
+  {
+    "role": "assistant",
+    "content": "That is definitely his."
+  },
+  {
+    "role": "user",
+    "content": "Translate only into wo uski hii ki ha -> Hindi and give only the translated text. No explanations, no roman script."
+  },
+  {
+    "role": "assistant",
+    "content": "वह उसकी ही की है।"
+  },
+  {
+    "role": "user",
+    "content": "Translate only into wo uski hii ki ha -> sindhi and give only the translated text. No explanations, no roman script."
+  },
+  {
+    "role": "assistant",
+    "content": "اهو صرف هن جو آهي."
+  },
+  {
+    "role": "user",
+    "content": "Translate only into wo uski hii ki ha -> arabic and give only the translated text. No explanations, no roman script."
+  },
+  {
+    "role": "assistant",
+    "content": "ذلك هو ملكه بالتأكيد."
+  },
+  {
+    "role": "user",
+    "content": "Translate only into exirt and give only the translated text. No explanations, no roman script."
+  },
+  {
+    "role": "assistant",
+    "content": "Exit"
+  }
+]
